@@ -1,0 +1,58 @@
+[
+    {
+        "Product Name": "Jonson",
+        "Product Number": "01",
+        "Product Price": "500",
+        "Production Date": "20\/10\/2021",
+        "Expire Date": "24\/12\/2024",
+        "Quantity": "100"
+    },
+    {
+        "Product Name": "Milk",
+        "Product Number": "24",
+        "Product Price": "40",
+        "Production Date": "10\/12\/2021",
+        "Expire Date": "20\/10\/2025",
+        "Quantity": "200"
+    },
+    {
+        "Product Name": "",
+        "Product Number": "",
+        "Product Price": "",
+        "Production Date": "",
+        "Expire Date": "",
+        "Quantity": ""
+    },
+    {
+        "Product Name": "Jonson",
+        "Product Number": "01",
+        "Product Price": "2000",
+        "Production Date": "20\/10\/2021",
+        "Expire Date": "20\/10\/22",
+        "Quantity": "100"
+    },
+    {
+        "Product Name": "Jonson",
+        "Product Number": "01",
+        "Product Price": "2000",
+        "Production Date": "20\/10\/2021",
+        "Expire Date": "20\/10\/22",
+        "Quantity": "100"
+    },
+    {
+        "Product Name": "Jonson",
+        "Product Number": "01",
+        "Product Price": "2000",
+        "Production Date": "20\/10\/2021",
+        "Expire Date": "20\/10\/22",
+        "Quantity": "100"
+    },
+    {
+        "Product Name": "Jonson",
+        "Product Number": "01",
+        "Product Price": "2000",
+        "Production Date": "20\/10\/2021",
+        "Expire Date": "20\/10\/22",
+        "Quantity": "100"
+    }
+]
